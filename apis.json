@@ -1,0 +1,72 @@
+{
+    "name": "Intertrust Technologies",
+    "description": "<p>A new reality is emerging as we adjust to the world where sensors on everything &mdash; from phones to cars to medical devices &mdash; track every movement, every blink of the eye, every heartbeat and location. Troves of data are being collected, governed, and analyzed in quantities hitherto unfathomable. These data can help us live longer and be better informed about our interests and dislikes. They can also keep us better connected and more entertained. Yet, significant technological and social issues exist around how these data should be properly handled. An outmoded regulatory environment and an increasingly lucrative market for digital profiles have formed a potent cocktail, rendering our information increasingly vulnerable to those who wish to exploit it.&nbsp; A boundless world awaits, but specific safeguards must be taken to protect personal and societal interests.&nbsp; With its years of research and development in trusted distributed computing, networked security, and social computing, Intertrust is up to this evermore important challenge: To build trust in a connected world.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28604-www-intertrust-com.jpg",
+    "tags": [
+        "api provider",
+        "data",
+        "have api",
+        "isp",
+        "marketplaces",
+        "trust"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/intertrust-technologies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Intertrust Technologies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28604-www-intertrust-com.jpg",
+            "humanURL": "http:\/\/www.intertrust.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/intertrust-technologies-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.intertrust.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/intertrust"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.intertrust.com\/products\/drm-system\/developer\/"
+        },
+        {
+            "type": "Email",
+            "url": "legal@personagraph.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@intertrust.com"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@intertrust.com"
+        },
+        {
+            "type": "Email",
+            "url": "pr@intertrust.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/IntertrustTech"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.intertrust.com"
+        }
+    ]
+}
